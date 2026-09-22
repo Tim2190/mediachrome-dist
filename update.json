@@ -1,0 +1,8 @@
+{
+  "version": "0.3.0",
+  "notes": "Пробный период не может начаться раньше, чем появилась лицензия",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.3.0/mediachrome-setup-0.3.0.exe",
+  "sha256": "6b9b458d916179e9ef44f6bc38a04d6f9e985c03e5ea5831ca37f034163f0b3f",
+  "size": 277791289,
+  "at": "2026-09-22T05:03:30Z"
+}
