@@ -1,8 +1,8 @@
 {
-  "version": "0.3.1",
-  "notes": "Выпуск под уже занятым номером больше не проходит молча",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.3.1/mediachrome-setup-0.3.1.exe",
-  "sha256": "3692bfb44004ca8f8f0a82f6f8890bd2e6dd91f06579882ff5667add89f41588",
-  "size": 277808054,
-  "at": "2026-09-22T05:23:31Z"
+  "version": "0.3.2",
+  "notes": "Кабинет: светлая тема, проекты сеткой, видимая навигация",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.3.2/mediachrome-setup-0.3.2.exe",
+  "sha256": "d254cd877aa549d512817ff4186fcf4e4fbd30cc4299a39661902f619059f04e",
+  "size": 277809340,
+  "at": "2026-09-22T16:40:32Z"
 }
