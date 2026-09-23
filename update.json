@@ -1,8 +1,8 @@
 {
-  "version": "0.3.2",
-  "notes": "Кабинет: светлая тема, проекты сеткой, видимая навигация",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.3.2/mediachrome-setup-0.3.2.exe",
-  "sha256": "d254cd877aa549d512817ff4186fcf4e4fbd30cc4299a39661902f619059f04e",
-  "size": 277809340,
-  "at": "2026-09-22T16:40:32Z"
+  "version": "0.4.0",
+  "notes": "Английский кабинет, инструкция внутри программы и выключатель подсказок",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.4.0/mediachrome-setup-0.4.0.exe",
+  "sha256": "21b2ddfa382aa6fb2405a480a630f4d37d5223097809a658298469febb05b0fd",
+  "size": 277799740,
+  "at": "2026-09-23T03:46:29Z"
 }
