@@ -1,8 +1,8 @@
 {
-  "version": "0.5.0",
-  "notes": "Пресет Reuters: поиск сайта берётся рендером",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.0/mediachrome-setup-0.5.0.exe",
-  "sha256": "e5b4d45e704989ce6222f463da87638c05cdd01e12bdc249af341f3de3ceea89",
-  "size": 277804346,
-  "at": "2026-09-23T11:09:13Z"
+  "version": "0.5.1",
+  "notes": "Мировые СМИ: 18 пресетов по живому замеру и своя группа галочек",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.1/mediachrome-setup-0.5.1.exe",
+  "sha256": "11c4cdf628b8ae43afe39bf1434861f1ce30b0af8bf416ab74b3af86e96d795f",
+  "size": 277813470,
+  "at": "2026-09-23T12:08:58Z"
 }
