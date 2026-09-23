@@ -1,8 +1,8 @@
 {
-  "version": "0.4.0",
-  "notes": "Английский кабинет, инструкция внутри программы и выключатель подсказок",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.4.0/mediachrome-setup-0.4.0.exe",
-  "sha256": "21b2ddfa382aa6fb2405a480a630f4d37d5223097809a658298469febb05b0fd",
-  "size": 277799740,
-  "at": "2026-09-23T03:46:29Z"
+  "version": "0.5.0",
+  "notes": "Пресет Reuters: поиск сайта берётся рендером",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.0/mediachrome-setup-0.5.0.exe",
+  "sha256": "e5b4d45e704989ce6222f463da87638c05cdd01e12bdc249af341f3de3ceea89",
+  "size": 277804346,
+  "at": "2026-09-23T11:09:13Z"
 }
