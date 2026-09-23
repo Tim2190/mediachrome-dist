@@ -1,0 +1,8 @@
+{
+  "version": "0.5.1",
+  "minExe": "0.3.0",
+  "url": "https://raw.githubusercontent.com/tim2190/mediachrome-dist/main/code.js",
+  "sha256": "53f8b9bb63492ebeffd8785ea4722715e3d11f8dbee85dbeb514cc8c9ee6bebe",
+  "sig": "Ya9YpM5wqAzM3zv+1mHz0claulpAncjNxNluqiVLoEwdQIhJmdvHMMGYAalCae4nW16W/ZTvaQMbfV4DJ27zBg==",
+  "notes": "v0.5.1"
+}
