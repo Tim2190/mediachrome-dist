@@ -1,8 +1,8 @@
 {
-  "version": "0.5.4",
-  "notes": "Выпуск 0.5.4: мировые и российские СМИ, ревизия пресетов, комментарии в Фейсбуке",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.4/mediachrome-setup-0.5.4.exe",
-  "sha256": "2187eb4828fb502d34803ef3fb3a4ba46af2b6cc2890504fa4f8f111f0e68d93",
-  "size": 278300285,
-  "at": "2026-10-01T02:53:37Z"
+  "version": "0.5.5",
+  "notes": "Выпуск 0.5.5: кабинет больше не обещает обновление, которое не применится",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.5/mediachrome-setup-0.5.5.exe",
+  "sha256": "bfefd1428b0d8a283724ef54f456349b6f604be3df2a186d71eacade0f0a0374",
+  "size": 278273681,
+  "at": "2026-10-01T04:45:29Z"
 }
