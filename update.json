@@ -1,8 +1,8 @@
 {
-  "version": "0.5.6",
-  "notes": "democrat.kz: материал про FlyArystan закреплён проверкой",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.6/mediachrome-setup-0.5.6.exe",
-  "sha256": "e36980c82e718a4cbfac947f3ff5eb756fc4f674c6fea66aac0fdd421d0bda8c",
-  "size": 278280386,
-  "at": "2026-10-09T04:13:33Z"
+  "version": "0.5.7",
+  "notes": "Выпуск 0.5.7: телеграм-бот закрыт для посторонних",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.7/mediachrome-setup-0.5.7.exe",
+  "sha256": "5a4d42523c85ebe9667fdad9e9ed6dc2d2f6a2af2f40ec9b1f14b5eeaf8636b9",
+  "size": 278281509,
+  "at": "2026-10-09T07:08:07Z"
 }
