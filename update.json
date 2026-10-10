@@ -1,8 +1,8 @@
 {
-  "version": "0.5.7",
-  "notes": "Выпуск 0.5.7: телеграм-бот закрыт для посторонних",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.7/mediachrome-setup-0.5.7.exe",
-  "sha256": "5a4d42523c85ebe9667fdad9e9ed6dc2d2f6a2af2f40ec9b1f14b5eeaf8636b9",
-  "size": 278281509,
-  "at": "2026-10-09T07:08:07Z"
+  "version": "0.5.8",
+  "notes": "Мониторинг репутации: отзывы 2ГИС, бот, облако слов и ИИ-разбор",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.8/mediachrome-setup-0.5.8.exe",
+  "sha256": "3ac3e484638bf69b972ffa859a5e6f32a0bb71d4776d63311fbda04a4441c0fa",
+  "size": 278308307,
+  "at": "2026-10-10T15:14:31Z"
 }
