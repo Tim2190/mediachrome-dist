@@ -1,8 +1,8 @@
 {
-  "version": "0.5.9",
-  "notes": "Отзывы 2ГИС: реакция фирмы на негатив, подтверждённые отзывы, график с периодами — версия 0.5.9",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.9/mediachrome-setup-0.5.9.exe",
-  "sha256": "08a474afbdb12a28ef2682fc9c3b6ecf68e8a91c2ea1705b0bc1d2dfaf52b796",
-  "size": 278284886,
-  "at": "2026-10-11T08:35:39Z"
+  "version": "0.6.0",
+  "notes": "Отзывы 2ГИС: понятные графики — подписи под столбиками, шкала, «год» и «полгода» — версия 0.6.0",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.0/mediachrome-setup-0.6.0.exe",
+  "sha256": "948f7429dc15c3d8287e9c438eaf670444ea0b0682ba56f0cdcba9cd35bef706",
+  "size": 278300462,
+  "at": "2026-10-11T09:39:22Z"
 }
