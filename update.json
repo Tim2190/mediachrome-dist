@@ -1,8 +1,8 @@
 {
-  "version": "0.6.1",
-  "notes": "Отзывы 2ГИС: сравнение объектов, всплески, напоминания о плохих отзывах — версия 0.6.1",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.1/mediachrome-setup-0.6.1.exe",
-  "sha256": "51442a302c0040fbe199329ae1d017b221d410c13ffb8dfd9d714578d4e952c1",
-  "size": 278309686,
-  "at": "2026-10-11T11:27:06Z"
+  "version": "0.6.2",
+  "notes": "Отзывы: подписи показателей понятны без пояснений, а одинаковые числа на странице считаются одинаково",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.2/mediachrome-setup-0.6.2.exe",
+  "sha256": "8b5426076c7b467ab09c9225f484dee2d9d3f9131d408af23df8837aac989e74",
+  "size": 278323011,
+  "at": "2026-10-11T15:45:18Z"
 }
