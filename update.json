@@ -1,8 +1,8 @@
 {
-  "version": "0.6.0",
-  "notes": "Отзывы 2ГИС: понятные графики — подписи под столбиками, шкала, «год» и «полгода» — версия 0.6.0",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.0/mediachrome-setup-0.6.0.exe",
-  "sha256": "948f7429dc15c3d8287e9c438eaf670444ea0b0682ba56f0cdcba9cd35bef706",
-  "size": 278300462,
-  "at": "2026-10-11T09:39:22Z"
+  "version": "0.6.1",
+  "notes": "Отзывы 2ГИС: сравнение объектов, всплески, напоминания о плохих отзывах — версия 0.6.1",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.1/mediachrome-setup-0.6.1.exe",
+  "sha256": "51442a302c0040fbe199329ae1d017b221d410c13ffb8dfd9d714578d4e952c1",
+  "size": 278309686,
+  "at": "2026-10-11T11:27:06Z"
 }
