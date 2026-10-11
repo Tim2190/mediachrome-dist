@@ -1,8 +1,8 @@
 {
-  "version": "0.5.8",
-  "notes": "Мониторинг репутации: отзывы 2ГИС, бот, облако слов и ИИ-разбор",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.8/mediachrome-setup-0.5.8.exe",
-  "sha256": "3ac3e484638bf69b972ffa859a5e6f32a0bb71d4776d63311fbda04a4441c0fa",
-  "size": 278308307,
-  "at": "2026-10-10T15:14:31Z"
+  "version": "0.5.9",
+  "notes": "Отзывы 2ГИС: реакция фирмы на негатив, подтверждённые отзывы, график с периодами — версия 0.5.9",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.5.9/mediachrome-setup-0.5.9.exe",
+  "sha256": "08a474afbdb12a28ef2682fc9c3b6ecf68e8a91c2ea1705b0bc1d2dfaf52b796",
+  "size": 278284886,
+  "at": "2026-10-11T08:35:39Z"
 }
