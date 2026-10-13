@@ -1,8 +1,8 @@
 {
-  "version": "0.6.2",
-  "notes": "Отзывы: подписи показателей понятны без пояснений, а одинаковые числа на странице считаются одинаково",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.2/mediachrome-setup-0.6.2.exe",
-  "sha256": "8b5426076c7b467ab09c9225f484dee2d9d3f9131d408af23df8837aac989e74",
-  "size": 278323011,
-  "at": "2026-10-11T15:45:18Z"
+  "version": "0.6.3",
+  "notes": "ИИ-разбор: новые модели Gemini отвечают быстрее, а при молчании одной спрашивается следующая — версия 0.6.3",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.3/mediachrome-setup-0.6.3.exe",
+  "sha256": "77c28ef6349bb34794db14db9fead7ea9104d80e20451c2b1e851049f0608042",
+  "size": 278330625,
+  "at": "2026-10-13T04:33:05Z"
 }
