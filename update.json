@@ -1,8 +1,8 @@
 {
-  "version": "0.6.3",
-  "notes": "ИИ-разбор: новые модели Gemini отвечают быстрее, а при молчании одной спрашивается следующая — версия 0.6.3",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.3/mediachrome-setup-0.6.3.exe",
-  "sha256": "77c28ef6349bb34794db14db9fead7ea9104d80e20451c2b1e851049f0608042",
-  "size": 278330625,
-  "at": "2026-10-13T04:33:05Z"
+  "version": "0.6.4",
+  "notes": "Чужие заголовки из колонки «Танымал» больше не попадают в выдачу, тональность размечает всю ленту, под панелью ИИ виден журнал запросов — версия 0.6.4",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.4/mediachrome-setup-0.6.4.exe",
+  "sha256": "a44d083e208ef31b4070ae849d383024e17099d0552d6c173990904be946ad66",
+  "size": 278332972,
+  "at": "2026-10-14T03:57:19Z"
 }
