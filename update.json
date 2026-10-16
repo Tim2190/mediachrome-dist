@@ -1,8 +1,8 @@
 {
-  "version": "0.6.4",
-  "notes": "Чужие заголовки из колонки «Танымал» больше не попадают в выдачу, тональность размечает всю ленту, под панелью ИИ виден журнал запросов — версия 0.6.4",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.4/mediachrome-setup-0.6.4.exe",
-  "sha256": "a44d083e208ef31b4070ae849d383024e17099d0552d6c173990904be946ad66",
-  "size": 278332972,
-  "at": "2026-10-14T03:57:19Z"
+  "version": "0.6.5",
+  "notes": "Вместо «Разбора» — «Расширенный обзор»: справка для руководства по всем материалам окна, с жирным и кнопкой «Скопировать» — версия 0.6.5",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.5/mediachrome-setup-0.6.5.exe",
+  "sha256": "0f796c9ab70cfe99e0fd05b370ed84abe4facf822746ee63ea7c788e56b65e37",
+  "size": 278327298,
+  "at": "2026-10-16T04:24:25Z"
 }
