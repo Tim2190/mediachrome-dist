@@ -1,8 +1,8 @@
 {
-  "version": "0.6.5",
-  "notes": "Вместо «Разбора» — «Расширенный обзор»: справка для руководства по всем материалам окна, с жирным и кнопкой «Скопировать» — версия 0.6.5",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.5/mediachrome-setup-0.6.5.exe",
-  "sha256": "0f796c9ab70cfe99e0fd05b370ed84abe4facf822746ee63ea7c788e56b65e37",
-  "size": 278327298,
-  "at": "2026-10-16T04:24:25Z"
+  "version": "0.6.6",
+  "notes": "У объекта 2ГИС появились кнопки «Обновить сейчас» и «Перечитать все отзывы» — удалять и заводить предприятие заново больше не нужно, удалённые в 2ГИС отзывы помечаются — версия 0.6.6",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.6/mediachrome-setup-0.6.6.exe",
+  "sha256": "e3e4ca32280fe82da76efa5a2d2bbfbe042a4c3b23a67a56123cfa00f8bd1321",
+  "size": 278374982,
+  "at": "2026-10-31T16:06:12Z"
 }
