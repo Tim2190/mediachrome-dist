@@ -1,8 +1,8 @@
 {
-  "version": "0.6.6",
-  "notes": "У объекта 2ГИС появились кнопки «Обновить сейчас» и «Перечитать все отзывы» — удалять и заводить предприятие заново больше не нужно, удалённые в 2ГИС отзывы помечаются — версия 0.6.6",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.6/mediachrome-setup-0.6.6.exe",
-  "sha256": "e3e4ca32280fe82da76efa5a2d2bbfbe042a4c3b23a67a56123cfa00f8bd1321",
-  "size": 278374982,
-  "at": "2026-10-31T16:06:12Z"
+  "version": "0.6.8",
+  "notes": "Прогоны быстрее, полнее и без мусора: поисковик сайта больше не спрашивается трижды, inform.kz читается целиком со всем текстом статей, kapital.kz — через служебный вход, ktk.kz и dialog.kz — без браузера; ontustiktv.kz и atpress.kz вместо переехавших — версия 0.6.8",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.8/mediachrome-setup-0.6.8.exe",
+  "sha256": "60ab195c12b306aec14d4ffa7c09cb15d5d24d8d7ec2bdf6bbe835d196f29126",
+  "size": 278365973,
+  "at": "2026-11-20T12:26:52Z"
 }
