@@ -1,8 +1,8 @@
 {
-  "version": "0.6.8",
+  "version": "0.6.9",
   "minExe": "0.3.0",
   "url": "https://raw.githubusercontent.com/tim2190/mediachrome-dist/main/code.js",
-  "sha256": "cf1a36ffd17b1ed93f0c54ab0631ca345e3e980a34594beb52bec4e63fde36ca",
-  "sig": "2fcoA6sqYJU3o43ALAolKB/ogKZiBvduTV8kNvTEjc6SF2ELBcD4eosbvRw40buW1WHNWQEi1qhpItRHgECYAA==",
-  "notes": "v0.6.8"
+  "sha256": "ed0e348f0b09c61d29170c40935393fcfac776ed6e8ccfc924a04dd8d768d49f",
+  "sig": "MrOpGpv2mDUF4M1lTS3CbB5PLtHPrkCziRSRIUUR1kp35UbX7qg2vudHcAM/RULnh8cRBCM1Ueby122pVzKGAg==",
+  "notes": "v0.6.9"
 }
