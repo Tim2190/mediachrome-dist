@@ -1,8 +1,8 @@
 {
-  "version": "0.6.9",
-  "notes": "egemen.kz и baq.kz: вход к базе сайта вместо его страниц",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.6.9/mediachrome-setup-0.6.9.exe",
-  "sha256": "e3573dee5c977e4a9af38d923e34c194fcc8acc2a63393e6f517930733659529",
-  "size": 278443850,
-  "at": "2026-11-22T11:31:44Z"
+  "version": "0.7.0",
+  "notes": "Версия 0.7.0: браузер в программе снова работает, поиск медленных сайтов больше не теряет материал",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.0/mediachrome-setup-0.7.0.exe",
+  "sha256": "d85b875621b900c485b2556ab9c4e2e488585d3e819dc68cd6d90076cc5cc976",
+  "size": 278449042,
+  "at": "2026-11-22T14:37:47Z"
 }
