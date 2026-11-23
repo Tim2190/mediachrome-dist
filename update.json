@@ -1,8 +1,8 @@
 {
-  "version": "0.7.0",
-  "notes": "Версия 0.7.0: браузер в программе снова работает, поиск медленных сайтов больше не теряет материал",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.0/mediachrome-setup-0.7.0.exe",
-  "sha256": "d85b875621b900c485b2556ab9c4e2e488585d3e819dc68cd6d90076cc5cc976",
-  "size": 278449042,
-  "at": "2026-11-22T14:37:47Z"
+  "version": "0.7.1",
+  "notes": "Версия 0.7.1: кнопка «Собрать сейчас» стала зелёной",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.1/mediachrome-setup-0.7.1.exe",
+  "sha256": "49da8248aa581a705039dff77ef9a3018f31bfbb2fa1f82726298f8c1ad7b2f2",
+  "size": 278465112,
+  "at": "2026-11-23T06:26:27Z"
 }
