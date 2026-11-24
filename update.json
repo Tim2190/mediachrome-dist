@@ -1,8 +1,8 @@
 {
-  "version": "0.7.1",
-  "notes": "Версия 0.7.1: кнопка «Собрать сейчас» стала зелёной",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.1/mediachrome-setup-0.7.1.exe",
-  "sha256": "49da8248aa581a705039dff77ef9a3018f31bfbb2fa1f82726298f8c1ad7b2f2",
-  "size": 278465112,
-  "at": "2026-11-23T06:26:27Z"
+  "version": "0.7.2",
+  "notes": "Версия 0.7.2: «Здоровье» больше не пугает зря после выходных",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.2/mediachrome-setup-0.7.2.exe",
+  "sha256": "55bf057b663c241f5c42208464ece38eabd9eec82db44819e6a890fa15544b31",
+  "size": 278466611,
+  "at": "2026-11-24T03:45:38Z"
 }
