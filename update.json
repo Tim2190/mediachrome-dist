@@ -1,8 +1,8 @@
 {
-  "version": "0.7.2",
-  "notes": "Версия 0.7.2: «Здоровье» больше не пугает зря после выходных",
-  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.2/mediachrome-setup-0.7.2.exe",
-  "sha256": "55bf057b663c241f5c42208464ece38eabd9eec82db44819e6a890fa15544b31",
-  "size": 278466611,
-  "at": "2026-11-24T03:45:38Z"
+  "version": "0.7.3",
+  "notes": "Проверка запаса ленты в программе — отдельным набором, чтобы плагин не потерял свой",
+  "setup": "https://github.com/Tim2190/mediachrome-dist/releases/download/v0.7.3/mediachrome-setup-0.7.3.exe",
+  "sha256": "ea5a05995f644edcae7d103c06446c3f00857392fde302c2fae841c00257ea0b",
+  "size": 278460333,
+  "at": "2026-11-26T11:44:47Z"
 }
